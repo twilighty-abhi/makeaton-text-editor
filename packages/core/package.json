@@ -1,7 +1,7 @@
 {
-  "name": "novel",
+  "name": "Monotype",
   "version": "0.1.22",
-  "description": "Notion-style WYSIWYG editor with AI-powered autocompletions",
+  "description": "An AI integrated Text editor",
   "license": "Apache-2.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
